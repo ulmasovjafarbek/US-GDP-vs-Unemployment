@@ -6,8 +6,14 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 The resulting plot of the project is shown below:
 <img src="https://github.com/ulmasovjafarbek/US-GDP-vs-Unemployment/blob/main/plot.png">
 
+Python libraries used in the project:
+- pandas
+- bokeh.plotting
+
 Requirements for running this project on your device:
 - Python should be installed
 - Jupyter Notebooks should be installed
 
 Alternatively, you can use IBM Watson Studio service on IBM Cloud to run the project. For more info: https://cloud.ibm.com/
+
+This project is a part of IBM Data Science Professional Certificate program on Coursera.
